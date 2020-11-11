@@ -1,0 +1,12 @@
+name: Cosmolian_public
+title: Cosmolian_public
+username:
+account: yoav-ben-dor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3210232
+bundleId: 3847687
+url: https://yoav-ben-dor.shinyapps.io/Cosmolian_public/
+when: 1605107697.10945
+asMultiple: FALSE
+asStatic: FALSE
